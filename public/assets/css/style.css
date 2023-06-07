@@ -1,0 +1,17 @@
+body {
+    font-family: "Open Sans", sans-serif;  
+  }  
+nav,#home{
+    background-color:#37517e;
+  }  
+a:link { 
+    text-decoration: none;
+   }
+h4{
+  color: #47b2e4;
+}
+h2{
+  color: #37517e;
+}
+
+ 
